@@ -1,1 +1,5 @@
-# 2016_SIP_Saban2_MakeupMonkeys
+Readme.file 
+
+LICENSE 
+
+MIT License 
